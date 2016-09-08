@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SharedPrefences</string>
+    <string name="action_settings">Settings</string>
+</resources>
